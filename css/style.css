@@ -12,6 +12,12 @@ body {
     background-size: cover;
 }
 
+#spinner {
+    position: fixed;
+    top: 40%;
+    left: 45%;
+}
+
 .card {
     border-color: blue;
     border-radius: 10px;
@@ -49,6 +55,14 @@ p {
     float: right;
 }
 
+#btn4 {
+    background-color: orange;
+    width: 50%;
+    text-align: center;
+    border-radius: 10px;
+    color: white;
+}
+
 #content {
     border-radius: 20px;
 }
@@ -59,4 +73,9 @@ p {
 
 img {
     width: 35%;
+}
+
+.row {
+    margin-left: 0px!important;
+    margin-right: 0px!important;
 }
