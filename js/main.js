@@ -142,9 +142,8 @@ fetch("https://restcountries.eu/rest/v2/all")
             
                 <div id="content" class="col-lg-4 col-sm-12 m-4 bg-white p-3">
                     <div class="mb-5 mt-5">
-                    <img src="${
-                      data[num].flag
-                    } is the national flag of which country">
+                    <img src="${data[num].flag} ">
+                    <h5>is the national flag of what country</h5>
                     </div>
             
                     <div class="card correct p-2 mb-4"  id="green">
