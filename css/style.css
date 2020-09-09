@@ -1,0 +1,62 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+    background-image: url(../img/background.png);
+    background-position: center;
+    background-size: cover;
+}
+
+.card {
+    border-color: blue;
+    border-radius: 10px;
+    color: blue;
+}
+
+p {
+    margin-bottom: 0px!important;
+}
+
+#btn1 {
+    background-color: orange;
+    width: 20%;
+    text-align: center;
+    border-radius: 10px;
+    color: white;
+    float: right;
+}
+
+#btn2 {
+    background-color: orange;
+    width: 20%;
+    text-align: center;
+    border-radius: 10px;
+    color: white;
+    float: right;
+}
+
+#btn3 {
+    background-color: orange;
+    width: 20%;
+    text-align: center;
+    border-radius: 10px;
+    color: white;
+    float: right;
+}
+
+#content {
+    border-radius: 20px;
+}
+
+#correct {
+    background-color: white;
+}
+
+img {
+    width: 35%;
+}

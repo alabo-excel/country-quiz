@@ -1,0 +1,1 @@
+a simple quiz app that asks random questions about countries, its capital and national flag. 
