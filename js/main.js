@@ -125,7 +125,7 @@ fetch("https://restcountries.eu/rest/v2/all")
                     correct.style.backgroundColor = "green";
                     correct.style.border = "none";
                     correct.style.color = "white";
-                    score = 1;
+                    score = score + 1;
                 }
 
             });
@@ -203,7 +203,7 @@ fetch("https://restcountries.eu/rest/v2/all")
                             correct.style.backgroundColor = "green";
                             correct.style.border = "none";
                             correct.style.color = "white";
-                            score = 1;
+                            score = score + 1;
                         }
 
                     });
